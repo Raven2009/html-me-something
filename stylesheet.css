@@ -1,0 +1,78 @@
+body {
+    text-align: center;
+    font : "Trebuchet MS", sans-serif, serif;
+    font-size: 105%;
+    text-decoration: none;
+    background-image:url(images/spiration%20dark.jpg);
+  border: 12px dashed rgba(172, 164, 63, 0.27);
+    box-shadow: 0px -25px 9px rgba(183, 170, 20, 0.54);
+    padding: 1% 5%;
+    margin: 50px 75px 100px 120px;
+    color: #e08415;
+}
+
+div img{
+    height: 275px;
+    width: 400px;
+    float: none;
+    text-align:justify;
+    border-radius: 100%;
+     box-shadow: 0px -9px 9px rgba(150, 126, 27, 0.86);
+    
+}
+
+.open{
+    font-family:"Palatino Linotype", "Book Antiqua", serif;
+    font-size: 350%;
+    font-weight: 800;
+    margin-bottom: 1%;
+}
+
+#openp{
+    font-size: 175%;
+    color: chartreuse;
+    font-weight: 600;
+    margin-top:2%;
+}
+
+p{
+    font-size: 110%;
+}
+
+img{
+     max-width: 60%;
+    height: auto;
+    width: auto;
+    float: none;
+    border: rgba(217, 59, 59, 0.26);
+    border-radius: 10%;
+    margin-bottom: 0%;
+    box-shadow: 20px 20px 50px 20px green; 
+
+}
+
+figcaption{
+    font-size: 80%;
+    margin-bottom:0%;
+    margin-left: 30%;
+    margin-right: 30%
+    
+}
+
+figure{
+    color: black;
+    font-weight:bolder;
+}
+
+
+a:hover{
+    color: chartreuse;
+}
+
+a{
+    color:forestgreen;
+}
+
+article{
+    display:grid;
+}
